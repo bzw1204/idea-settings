@@ -1,0 +1,9 @@
+<templateSet group="other">
+  <template name="auth" value="/**&#10; * $DESCRIPTION$&#10; * &#10; * @author 白振伟&#10; * @version V1.0&#10; * @date $DATE$&#10; */" description="作者信息" toReformat="false" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATE" expression="date(&quot;yyyy年MM月dd日 HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

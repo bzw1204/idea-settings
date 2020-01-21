@@ -2,10 +2,11 @@
 #parse("File Header.java")
 
 /**
- * @author: tangdoupapa
- * @Date: ${DATE}
- * @Description:
- * @Version: V1.0
+ * ${DESCRIPTION}
+ *
+ * @author 白振伟
+ * @version V1.0
+ * @date ${YEAR}年${MONTH}月${DAY}日 ${TIME}
  */
 public @interface ${NAME} {
 }
