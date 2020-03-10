@@ -138,6 +138,10 @@
           <option name="url" value="http://122.51.163.32:8000" />
           <option name="userName" value="baizw@cnns.net" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.0.100:8000/netan/xdun-parent.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workspace" />
